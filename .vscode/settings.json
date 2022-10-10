@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/646f7dc7-fe35-42c8-8017-1359c86c997a/appservices/subscriptions/646f7dc7-fe35-42c8-8017-1359c86c997a/resourceGroups/AppService/providers/Microsoft.Web/sites/Cloud-TOSBATH",
+  "appService.deploySubpath": "."
+}
